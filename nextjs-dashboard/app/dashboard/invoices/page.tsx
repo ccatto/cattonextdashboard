@@ -12,7 +12,7 @@ export default function Page() {
                     //     'X-RapidAPI-Key': 'your-rapidapi-key',
                     //     'X-RapidAPI-Host': 'famous-quotes4.p.rapidapi.com',
                     // },
-                    // test
+                    // test 2
                 }
             );
             const data = await res.json();
